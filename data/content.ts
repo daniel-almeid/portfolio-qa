@@ -55,8 +55,13 @@ export const skills = [
 
 export const certificacoes = [
   { area: 'QA', nome: 'Formação Carreira QA: processos e automação de testes' },
+  { area: 'QA', nome: 'Teste de API com Postman' },
+  { area: 'Web', nome: 'TypeScript' },
+  { area: 'Web', nome: 'Acessibilidade Web (WCAG)' },
   { area: 'Web e mobile', nome: 'Formação Desenvolva aplicações Web e Mobile com React e React Native' },
   { area: 'Mobile', nome: 'React Native: Criando um app' },
   { area: 'Mobile', nome: 'Desenvolva seu primeiro app com React Native' },
   { area: 'Dados', nome: 'Microsoft Excel Avançado 2016' },
+  { area: 'Dados', nome: 'SQL para testadores' },
+  { area: 'Ferramentas', nome: 'Git e GitHub' },
 ];
